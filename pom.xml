@@ -21,6 +21,7 @@
          <module>ch02_setup_aspectj</module>
          <module>ch02_setup_aspectj_annotations</module>
          <module>ch03_join_point_demonstrations</module>
+         <module>ch04_implementing_fault_tolerance</module>
     </modules>
 
     <properties>
